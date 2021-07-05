@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.test.factory</groupId>
+  <artifactId>test-factory-automation</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210705123552</lastUpdated>
+  </versioning>
+</metadata>

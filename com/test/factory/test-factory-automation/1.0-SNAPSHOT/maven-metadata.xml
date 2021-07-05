@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.test.factory</groupId>
+  <artifactId>test-factory-automation</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210705.123552</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20210705123552</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20210705.123552-2</value>
+        <updated>20210705123552</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20210705.123552-2</value>
+        <updated>20210705123552</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
