@@ -1,0 +1,10 @@
+target/
+*.iml
+.idea
+innso-test-automation.iml
+.exe
+.zip
+/src/main/resources/downloads/
+/src/main/resources/selenium/
+allure-results/
+allure-report/
